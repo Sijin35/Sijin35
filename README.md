@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there 👋. I am Sijin. Nice to meet you
 
 <!--
 **Sijin35/Sijin35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently searching for entery level positions/internships on web development to develop my existing skills and knowledge. Confident in my use of HTML, CSS and Js to work on front-end projects. Love to write clean codes to design usable products.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
