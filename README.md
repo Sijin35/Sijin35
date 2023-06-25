@@ -1,8 +1,8 @@
 ### Hi there 👋. I am Sijin. Nice to meet you
 
-🔭 I’m currently searching for entery level positions/internships on web development to develop my existing skills and knowledge. Confident in my use of HTML, CSS and Js to work on front-end projects. Love to write clean codes to design usable products.
+I’m currently searching for entery level positions/internships on web development to develop my existing skills and knowledge. Confident in my use of HTML, CSS and Js to work on front-end projects. Love to write clean codes to design usable products.
 
-🌱 I’m currently improving and adding new skills to my repertoire to ensure I can work as efficiently as possible.
+I’m currently improving and adding new skills to my repertoire to ensure I can work as efficiently as possible.
 
 
 😄Let me know if you have new opportunities
